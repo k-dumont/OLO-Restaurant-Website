@@ -1,0 +1,24 @@
+/* CSS Document */
+
+@font-face {
+    font-family: Timeburner;
+    src: url(../Fonts/timeburnernormal-webfont.woff);
+}
+
+.header-buttons{
+		padding-top:10px;
+		padding-bottom:10px;
+}
+
+.centered-logo{
+		width:600px;
+		padding-bottom:50px;
+		padding-top:50px;
+		margin-left:auto;
+		margin-right:auto;
+		display:block;
+}
+
+.contact-info ul {
+		margin-left:0px;
+}
